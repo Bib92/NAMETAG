@@ -1,0 +1,27 @@
+body {text-align:center;
+    background-color:darkgrey;}
+  .bodyTag {border: thin solid lightgrey;
+  width:90mm;
+  height:60mm;
+  border-radius:30px;
+  background-color:red;}
+  .hello {font-family:calibri;
+    font-size:60px;
+    color:white;
+  margin-bottom:0;}
+  
+  .mni {color:white;
+    font-family:calibri light;
+    font-size:20px;
+  margin:0;
+    padding-top:0;
+  }
+  
+  .austin {background-color:white;
+    font-family:Impact;
+  font-size:75px;
+    margin-top:0mm;
+  padding-top:2mm;
+  display:flex;
+  justify-content:center;
+  }
